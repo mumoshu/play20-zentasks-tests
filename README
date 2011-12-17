@@ -1,0 +1,1 @@
+This file was created by IntelliJ IDEA 10.5.4 for binding GitHub repository
